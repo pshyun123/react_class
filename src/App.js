@@ -1,10 +1,15 @@
 import{Fragment} from "react";
 // css 적용
-import './App.css';
-import Section from "./Section";
-// import WelcomeProps from "./WelcomeProps";
-import MyComponent from "./MyComponent"
-import Say from "./Say"
+// import './App.css';
+// import Section from "./Section";
+// // import WelcomeProps from "./WelcomeProps";
+// import MyComponent from "./MyComponent"
+// import Say from "./Say"
+// import Clock from "./Clock";
+// import EventPratice from "./onChange";
+// import EventHander from "./EventHander";
+// import FruitSelect from "./FruitSelect";
+import RadioButton from "./RadioButton";
 
 function App(){
   return (
@@ -23,7 +28,12 @@ function App(){
     //   </MyComponent>
     // </>
     <>
-      <Say />
+      {/* <Say /> */}
+      {/* <Clock /> */}
+     {/* <EventPratice /> */}
+     {/* <EventHander /> */}
+     {/* <FruitSelect /> */}
+     <RadioButton />
     </>
   );
 }

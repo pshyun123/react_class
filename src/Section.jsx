@@ -23,5 +23,5 @@ const Section = (props) => {
         </>
     )
 }
-
+// 이미지 삽입도 포함
 export default Section;

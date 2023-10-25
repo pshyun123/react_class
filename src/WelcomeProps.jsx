@@ -8,3 +8,4 @@ const WelcomeProps = (props) => {
     );
 }
 export default WelcomeProps;
+// 다른데에서 불러주기 위해 사용
