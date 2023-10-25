@@ -9,7 +9,10 @@ import{Fragment} from "react";
 // import EventPratice from "./onChange";
 // import EventHander from "./EventHander";
 // import FruitSelect from "./FruitSelect";
-import RadioButton from "./RadioButton";
+// import RadioButton from "./RadioButton";
+// import Table from "./Table";
+// import TableMap from "./TableMap";
+import UseRef from "./UseRef";
 
 function App(){
   return (
@@ -33,8 +36,12 @@ function App(){
      {/* <EventPratice /> */}
      {/* <EventHander /> */}
      {/* <FruitSelect /> */}
-     <RadioButton />
+     {/* <RadioButton /> */}
+     {/* <Table /> */}
+     {/* <TableMap /> */}
+     <UseRef />
     </>
+    
   );
 }
 export default App;
