@@ -2,7 +2,7 @@ import{Fragment} from "react";
 // css 적용
 // import './App.css';
 // import Section from "./Section";
-// // import WelcomeProps from "./WelcomeProps";
+// import WelcomeProps from "./WelcomeProps";
 // import MyComponent from "./MyComponent"
 // import Say from "./Say"
 // import Clock from "./Clock";
@@ -16,7 +16,8 @@ import{Fragment} from "react";
 // import UserList from"./UserList";
 // import UserListMap2 from"./UserListMap2";
 // import ToDoList from"./ToDoList";
-import Counter from"./Hooks1";
+// import Counter from"./Hooks1";
+import Counter2 from "./Hooks3";
 // import NameCard from"./Hooks_ex";
 // import MemberInfo from ".MemberInfo";
 
@@ -49,9 +50,10 @@ function App(){
      {/* <UserList /> */}
      {/* <UserListMap2 /> */}
      {/* <ToDoList /> */}
-     <Counter />
+     {/* <Counter /> */}
      {/* <NameCard /> */}
      {/* <MemberInfo /> */}
+     <Counter2 />
     </>
     
   );
