@@ -12,7 +12,13 @@ import{Fragment} from "react";
 // import RadioButton from "./RadioButton";
 // import Table from "./Table";
 // import TableMap from "./TableMap";
-import UseRef from "./UseRef";
+// import UseRef from "./UseRef";
+// import UserList from"./UserList";
+// import UserListMap2 from"./UserListMap2";
+// import ToDoList from"./ToDoList";
+import Counter from"./Hooks1";
+// import NameCard from"./Hooks_ex";
+// import MemberInfo from ".MemberInfo";
 
 function App(){
   return (
@@ -39,7 +45,13 @@ function App(){
      {/* <RadioButton /> */}
      {/* <Table /> */}
      {/* <TableMap /> */}
-     <UseRef />
+     {/* <UseRef /> */}
+     {/* <UserList /> */}
+     {/* <UserListMap2 /> */}
+     {/* <ToDoList /> */}
+     <Counter />
+     {/* <NameCard /> */}
+     {/* <MemberInfo /> */}
     </>
     
   );
