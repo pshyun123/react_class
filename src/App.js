@@ -17,9 +17,10 @@ import{Fragment} from "react";
 // import UserListMap2 from"./UserListMap2";
 // import ToDoList from"./ToDoList";
 // import Counter from"./Hooks1";
-import Counter2 from "./Hooks3";
+// import Counter2 from "./Hooks3";
 // import NameCard from"./Hooks_ex";
 // import MemberInfo from ".MemberInfo";
+import Average from "./Hooks4";
 
 function App(){
   return (
@@ -53,7 +54,8 @@ function App(){
      {/* <Counter /> */}
      {/* <NameCard /> */}
      {/* <MemberInfo /> */}
-     <Counter2 />
+     {/* <Counter2 /> */}
+     <Average />
     </>
     
   );

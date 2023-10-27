@@ -1,4 +1,4 @@
-//()d안이 객체임. 
+//()안이 객체임. 
 // 방법1.
 const WelcomeProps = (props) => {
     return (
